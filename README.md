@@ -8,5 +8,5 @@ This app queues you ingame and surrenders immediately using pixels to detect col
 
 How to use? 
 1. Open Arc Raiders and wait til you load in Speranza then open the app. If you do the other way around, the game flags the app as a cheating tool.
-2. Press F1 to start and everytime you successfully return to Speranza, the "Games queued: " counter increments to 1. You can go ahead and do anything else, just don't use your PC/Laptop where your running the script/game.
+2. Press F1 to start and everytime you successfully return to Speranza, the "Games queued: " counter bumps up by 1. You can go ahead and do anything else, just don't use your PC/Laptop where your running the script/game.
 3. Press F2 when you're back or you've queued up to 10 games. Enjoy!
