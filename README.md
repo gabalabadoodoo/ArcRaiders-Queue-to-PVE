@@ -4,7 +4,7 @@
 The goal for this script is to get queued back to solo PVE lobbies and reduce the hostile players that kills you after looting materials that you needed and jump back to duos/trios for PVP.
 Ideally, you queue up to 10 times to get queued back to friendly lobbies. Less hostile players, but not completely from what I've experienced. 
 
-This script queues you ingame and surrenders immediately using pixels to detect color and where it clicks. Hence why this only works for 1080p displays as thats what I use when creating this script. 
+This script queues you ingame and surrenders immediately using pixel coordinates to detect color and where it clicks. Hence why this only works for 1080p displays as thats what I use when creating this script. 
 
 How to use? 
 1. Open Arc Raiders and wait til you load in Speranza then open the script. If you do the other way around, the game flags the script as a cheating tool.
